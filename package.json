@@ -1,0 +1,19 @@
+{
+  "name": "db-manager",
+  "version": "1.0.0",
+  "description": "Database management application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julia Rose",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.17.1",
+    "mysql2": "^2.1.0",
+    "pluralize": "^8.0.0",
+    "request": "^2.88.0",
+    "shaper": "0.0.5",
+    "winston": "^3.2.1"
+  }
+}
